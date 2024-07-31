@@ -23,7 +23,7 @@ body{
     color: var(--color-secundario);
 }
 
-.header {
+header {
 padding: 2% 0% 2% 15%;
 background-color: var(--color-terciario);
 
